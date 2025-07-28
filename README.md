@@ -69,6 +69,6 @@ If you like this project:
 
 🌟 Star the repo
 
-🪄 Suggest features in Issues
+🪄 Suggest features in new Features,Projects.
 
 🔁 Share with your peers
