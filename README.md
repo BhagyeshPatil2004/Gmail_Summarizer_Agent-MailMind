@@ -68,6 +68,9 @@ python main.py
 ## 📝Note!
 If "gmail_agent.py" not works Use "If-gmail_agent-not-work-use-This.py" this may help you.
 
+## 📬LinkedIn Post Link🔗:
+https://www.linkedin.com/posts/bhagyeshpatil2004_ai-agenticai-geminiapi-activity-7355873487418273792-3ShR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-QuNcBYwez5aeldPJf5YEZOE6QcFMDlbE
+
 ## ⭐ Show Your Support!
 If you like this project:
 
