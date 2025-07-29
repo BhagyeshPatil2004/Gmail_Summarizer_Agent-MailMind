@@ -68,6 +68,7 @@ python main.py
 ## 📝Note!
 1. If "gmail_agent.py" not works Use "If-gmail_agent-not-work-use-This.py" this may help you.
 2. For Gmail API, 
+
    Step1: Go to google cloud Create New Project.
    
    Step2: Create Credentials as OAuth client ID, set type as Desktop.
