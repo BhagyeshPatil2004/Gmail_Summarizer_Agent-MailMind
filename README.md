@@ -42,7 +42,8 @@ Easily expandable with calendar sync, voice interface, productivity suggestions,
 
 ## 📸 
 
-<img width="1522" height="449" alt="image" src="https://github.com/user-attachments/assets/714fa327-8853-4c71-8bd1-490690e3247d" />
+<img width="1522" height="369" alt="image" src="https://github.com/user-attachments/assets/f8a88c8b-0545-488d-ae3b-d157333ea5a9" />
+
 
 ---
 
